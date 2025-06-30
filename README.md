@@ -9,7 +9,7 @@ Built using:
 
 ##  Demo
 
-[Live App]([https://your-app-url.streamlit.app/](https://loanprediction-meiobjfwcpnircz8wd2dhc.streamlit.app/))  
+[Live App](https://loanprediction-meiobjfwcpnircz8wd2dhc.streamlit.app/)
 
 ---
 
