@@ -40,7 +40,7 @@ Built using:
 
 ##  Machine Learning
 
-- Trained using the [Loan Prediction Dataset](https://www.kaggle.com/competitions/loan-prediction-problem)
+- Trained using the [Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 - Model: Logistic Regression
 - Input features were label-encoded and preprocessed for consistency
 
